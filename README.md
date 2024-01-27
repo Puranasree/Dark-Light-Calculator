@@ -3,4 +3,5 @@ It is a simple and responsive calculator.
 Languages used:
 HTML, CSS and JavaScript(JS)
 
-# Hosted link
+# Hosted link 
+https://dark-light-calculator.vercel.app/
